@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1706161129966,1355,GetRequest,200,OK,ExerciseAPI 1-1,text,true,,1929,159,1,1,https://reqres.in/api/users?page=2,1348,0,1264
+1706161131363,441,PostRequest,201,Created,ExerciseAPI 1-1,text,true,,893,259,1,1,https://reqres.in/api/users,441,0,0
+1706161131805,416,PUTRequest,200,OK,ExerciseAPI 1-1,text,true,,877,237,1,1,https://reqres.in/api/users/2,416,0,0
